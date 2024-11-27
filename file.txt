@@ -2,4 +2,3 @@ On my projects, where I donâ€™t use Cloudflare, I add a .conf file to my Liunxâ€
 Sunday
 Monday
 Tuesday
-Wednesday
