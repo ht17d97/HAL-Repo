@@ -1,1 +1,5 @@
 On my projects, where I don’t use Cloudflare, I add a .conf file to my Liunx’ apache server, which can for example forward https://s.example.com/ to localhost:8080, without any problems. This same config is not working for Cloudflare, and I think this is because Cloudflare doesn’t let the server know, that the request is coming from https://s.example.com/ and therefore the server is showing the default site.
+Sunday
+Monday
+Tuesday
+Wednesday
